@@ -26,6 +26,10 @@
 
 ## 기타
 
+### Github 계정 만들기
+- https://education.github.com/pack
+- 학생 계정 만들어 주세요. 많은 혜택이 있습니다.
+
 ### Linux 설치
 - Linux 꼭 설치 해야하나요? 아니요.
 - Linux 설치하면 뭐가 좋나요? Study를 Linux환경에서 진행하고, 현실 개발자들은 MacOS 또는 Linux를 사용함
